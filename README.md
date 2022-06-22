@@ -1,2 +1,2 @@
 # ExperimentalPhotography
-Projects in experimental photography, prototypes from Capstone (2022)
+Projects in experimental photography, prototypes from Capstone
